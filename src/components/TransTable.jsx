@@ -6,7 +6,7 @@ export const TransTable = ({
     amount
 }
 ) => {
-    return <div className="mr-6 ml-6">
+    return <div>
         <div className="grid grid-cols-12 text-sm ">
             <div className="col-span-3 text-blue-500">
             <a href = "#!" className="underline">#{orderId}</a></div>

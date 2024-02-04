@@ -19,7 +19,7 @@ function App() {
         <FilterArea></FilterArea>
       </div>
       <div className='ml-56 grid grid-cols-3 md:grid-cols-9'>
-        <div className='col-span-3 pr-3'><RevenueCard title = 'Next Payout' amount='2,312' orders='23' backgroundColor='bg-blue-500' textColor='text-white' hoverColor='bg-blue-800' iconColor='white'>
+        <div className='col-span-3 pr-3'><RevenueCard title = 'Next Payout' amount='2,312' orders='23' backgroundColor='bg-blue-500' textColor='text-white' hoverColor='bg-blue-900' iconColor='white'>
           </RevenueCard></div>
         <div className='col-span-3 pr-3'><RevenueCard title = 'Amount Pending' amount='92,312' orders='13' backgroundColor='bg-white' textColor='text-black' hoverColor='bg-gray-300' iconColor='black'></RevenueCard></div>
         <div className='col-span-3'><RevenueCard title = 'Amount Processed' amount='23,92,312' orders='5' backgroundColor='bg-white' textColor='text-black' hoverColor='bg-gray-300' iconColor='black'></RevenueCard></div>
